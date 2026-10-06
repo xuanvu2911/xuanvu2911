@@ -6,8 +6,10 @@ I started programming in 2011 at Viettel, working on internal tools and SMAS, a 
 
 ### What I work with
 <img src="https://xuanvu2911-stats.vercel.app/api/top-langs?username=xuanvu2911&layout=compact&hide=html,css&hide_border=true&langs_count=6" />
+
 - **Backend:** PHP, Laravel, CodeIgniter, REST APIs, PDF report generation
-- **Frontend:** Livewire / Blade, TypeScript, React, Vue
+- **Frontend:** Next.js, React, Livewire / Blade, TypeScript, Vue
+- **Mobile:** React Native
 - **Database:** MySQL (also SQL Server and Oracle in earlier projects)
 - **Ops:** VPS, Nginx, deployment and monitoring in production
 
