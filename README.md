@@ -5,7 +5,7 @@ Software engineer based in Ho Chi Minh City. I build web applications with Larav
 I started programming in 2011 at Viettel, working on internal tools and SMAS, a school management system used nationwide. I also spent two years as an account manager for enterprise IT solutions, which taught me to sort out requirements with clients before writing code.
 
 ### What I work with
-
+<img src="https://xuanvu2911-stats.vercel.app/api/top-langs?username=xuanvu2911&layout=compact&hide=html,css&hide_border=true&langs_count=6" />
 - **Backend:** PHP, Laravel, CodeIgniter, REST APIs, PDF report generation
 - **Frontend:** Livewire / Blade, TypeScript, React, Vue
 - **Database:** MySQL (also SQL Server and Oracle in earlier projects)
